@@ -1,0 +1,45 @@
+{
+  "name": "lutherwaves",
+  "handle": "lutherwaves",
+  "created": "2026-04-01",
+  "learning_style": "hands-on-first",
+  "time_commitment": "regular",
+  "repo_path": "/home/blox-master/learning/luthering",
+  "topics": {
+    "electrical-engineering": {
+      "level": "none",
+      "sub_topics": {
+        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "analog-circuits": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "digital-logic": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "pcb-practical": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    },
+    "embedded-programming": {
+      "level": "none",
+      "sub_topics": {
+        "c-fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "bare-metal": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "peripherals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "rtos-concepts": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "lower-level": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    },
+    "networking": {
+      "level": "none",
+      "sub_topics": {
+        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "protocols": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "hands-on": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "infrastructure": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    }
+  },
+  "stats": {
+    "total_challenges": 0,
+    "total_quizzes": 0,
+    "magic_points": 0,
+    "streak_days": 0,
+    "last_active": "2026-04-01"
+  }
+}
