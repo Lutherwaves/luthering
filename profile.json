@@ -7,31 +7,31 @@
   "repo_path": "/home/blox-master/learning/luthering",
   "topics": {
     "electrical-engineering": {
-      "level": "none",
+      "level": "intermediate",
       "sub_topics": {
-        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "analog-circuits": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "digital-logic": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "pcb-practical": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+        "fundamentals": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
+        "analog-circuits": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
+        "digital-logic": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
+        "pcb-practical": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.6 }
       }
     },
     "embedded-programming": {
-      "level": "none",
+      "level": "beginner",
       "sub_topics": {
-        "c-fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "bare-metal": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "peripherals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "rtos-concepts": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "lower-level": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+        "c-fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
+        "bare-metal": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
+        "peripherals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
+        "rtos-concepts": { "level": "none", "challenges_completed": 0, "avg_score": 0.2 },
+        "lower-level": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 }
       }
     },
     "networking": {
-      "level": "none",
+      "level": "intermediate",
       "sub_topics": {
-        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "protocols": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "hands-on": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "infrastructure": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+        "fundamentals": { "level": "intermediate", "challenges_completed": 0, "avg_score": 1.0 },
+        "protocols": { "level": "intermediate", "challenges_completed": 0, "avg_score": 1.0 },
+        "hands-on": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 },
+        "infrastructure": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 }
       }
     }
   },
