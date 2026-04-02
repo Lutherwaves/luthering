@@ -18,7 +18,7 @@
     "embedded-programming": {
       "level": "beginner",
       "sub_topics": {
-        "c-fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
+        "c-fundamentals": { "level": "beginner", "challenges_completed": 1, "avg_score": 0.5 },
         "bare-metal": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
         "peripherals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.4 },
         "rtos-concepts": { "level": "none", "challenges_completed": 0, "avg_score": 0.2 },
@@ -36,10 +36,10 @@
     }
   },
   "stats": {
-    "total_challenges": 0,
+    "total_challenges": 1,
     "total_quizzes": 0,
     "magic_points": 0,
-    "streak_days": 0,
-    "last_active": "2026-04-01"
+    "streak_days": 1,
+    "last_active": "2026-04-02"
   }
 }
