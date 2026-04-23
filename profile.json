@@ -33,6 +33,42 @@
         "hands-on": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 },
         "infrastructure": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 }
       }
+    },
+    "golang-internals": {
+      "level": "none",
+      "sub_topics": {
+        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0.2 },
+        "runtime": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "gc-allocator": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "compiler-ssa": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    },
+    "python-internals": {
+      "level": "beginner",
+      "sub_topics": {
+        "fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.8 },
+        "bytecode-ceval": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.8 },
+        "gc-gil": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.8 },
+        "c-extensions": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    },
+    "typescript-internals": {
+      "level": "beginner",
+      "sub_topics": {
+        "fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 1.0 },
+        "compiler-pipeline": { "level": "beginner", "challenges_completed": 0, "avg_score": 1.0 },
+        "type-system": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "tooling": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
+    },
+    "js-engine-internals": {
+      "level": "beginner",
+      "sub_topics": {
+        "fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 },
+        "v8-objects": { "level": "beginner", "challenges_completed": 0, "avg_score": 1.0 },
+        "jit-pipeline": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "gc": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
     }
   },
   "stats": {
@@ -40,6 +76,6 @@
     "total_quizzes": 0,
     "magic_points": 0,
     "streak_days": 1,
-    "last_active": "2026-04-02"
+    "last_active": "2026-04-24"
   }
 }
