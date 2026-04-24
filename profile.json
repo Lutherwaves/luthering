@@ -64,16 +64,16 @@
     "js-engine-internals": {
       "level": "beginner",
       "sub_topics": {
-        "fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.5 },
-        "v8-objects": { "level": "beginner", "challenges_completed": 0, "avg_score": 1.0 },
+        "fundamentals": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.6 },
+        "v8-objects": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.89 },
         "jit-pipeline": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
-        "gc": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+        "gc": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.33 }
       }
     }
   },
   "stats": {
     "total_challenges": 1,
-    "total_quizzes": 1,
+    "total_quizzes": 2,
     "magic_points": 0,
     "streak_days": 2,
     "last_active": "2026-04-25"
