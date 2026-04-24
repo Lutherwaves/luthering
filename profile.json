@@ -9,10 +9,10 @@
     "electrical-engineering": {
       "level": "intermediate",
       "sub_topics": {
-        "fundamentals": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
-        "analog-circuits": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
-        "digital-logic": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.8 },
-        "pcb-practical": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.6 }
+        "fundamentals": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.62 },
+        "analog-circuits": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.64 },
+        "digital-logic": { "level": "intermediate", "challenges_completed": 0, "avg_score": 0.7 },
+        "pcb-practical": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.73 }
       }
     },
     "embedded-programming": {
@@ -73,9 +73,9 @@
   },
   "stats": {
     "total_challenges": 1,
-    "total_quizzes": 0,
+    "total_quizzes": 1,
     "magic_points": 0,
-    "streak_days": 1,
-    "last_active": "2026-04-24"
+    "streak_days": 2,
+    "last_active": "2026-04-25"
   }
 }
