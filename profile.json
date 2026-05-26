@@ -69,13 +69,22 @@
         "jit-pipeline": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
         "gc": { "level": "beginner", "challenges_completed": 0, "avg_score": 0.33 }
       }
+    },
+    "cryptography": {
+      "level": "none",
+      "sub_topics": {
+        "fundamentals": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "symmetric": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "asymmetric": { "level": "none", "challenges_completed": 0, "avg_score": 0 },
+        "protocols": { "level": "none", "challenges_completed": 0, "avg_score": 0 }
+      }
     }
   },
   "stats": {
     "total_challenges": 1,
     "total_quizzes": 2,
     "magic_points": 0,
-    "streak_days": 2,
-    "last_active": "2026-04-25"
+    "streak_days": 1,
+    "last_active": "2026-05-25"
   }
 }
